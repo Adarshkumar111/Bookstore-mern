@@ -31,7 +31,7 @@ const SignUp = () => {
     };
 
     await axios
-      .post("http://localhost:4001/user/signup", userInfo)
+      .post("https://bookstore-backend-go16.onrender.com/book/user/signup", userInfo)
       .then((res) => {
         if (res.data) {
           toast.success("Signup Successful");
