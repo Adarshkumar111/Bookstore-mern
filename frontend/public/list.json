@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "Explore the world of imagination through this story book.",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Science Basics",
+    "title": "A beginner's guide to the wonders of science.",
+    "price": 120,
+    "category": "paid",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Math Genius",
+    "title": "Sharpen your math skills with fun puzzles and tricks.",
+    "price": 99,
+    "category": "paid",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 4,
+    "name": "History Explorer",
+    "title": "Travel back in time to discover historical moments.",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Art for Beginners",
+    "title": "Learn basic drawing and coloring techniques.",
+    "price": 150,
+    "category": "paid",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 6,
+    "name": "English Grammar",
+    "title": "Master grammar rules with ease and confidence.",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Coding for Kids",
+    "title": "Start your coding journey with fun and easy projects.",
+    "price": 199,
+    "category": "paid",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Geography Wonders",
+    "title": "Discover continents, countries, and cultures.",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Physics Fundamentals",
+    "title": "Understand how the universe works through physics.",
+    "price": 175,
+    "category": "paid",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Creative Writing",
+    "title": "Unleash your inner writer with prompts and tips.",
+    "price": 89,
+    "category": "paid",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Music Theory",
+    "title": "Learn the basics of reading and understanding music.",
+    "price": 0,
+    "category": "Song",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  }
+]
